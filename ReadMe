@@ -1,0 +1,4 @@
+Before running the python code, Selenium needs to be installed through cmd
+
+Commands: 
+pip install selenium
